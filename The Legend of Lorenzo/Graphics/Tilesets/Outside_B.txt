@@ -1,0 +1,256 @@
+Transparent|透明|Transparent
+Shop Sign (Sword)|看板（剣）|Enseigne (épée)
+Shop Sign (Sword & Shield)|看板（剣と盾）|Enseigne (épée et bouclier)
+Shop Sign (Armor)|看板（鎧）|Enseigne (armure)
+Shop Sign (Sack)|看板（袋）|Enseigne (sac)
+Shop Sign (Teapot)|看板（ポット）|Enseigne (théière)
+Shop Sign (Inn)|看板（宿）|Enseigne (auberge)
+Shop Sign (Pub)|看板（酒場）|Enseigne (bar)
+Shop Sign (Eatery)|看板（食堂）|Enseigne (cantine)
+Shop Sign (Hexagram)|看板（魔法陣）|Enseigne (héxagramme)
+Shop Sign (Staves)|看板（杖）|Enseigne (batons)
+Shop Sign (Coin)|看板（コイン）|Enseigne (pièce)
+Shop Sign (Shoes)|看板（靴）|Enseigne (chaussure)
+Shop Sign (Ring)|看板（指輪）|Enseigne (anneau)
+Shop Sign (Hammer)|看板（ハンマー）|Enseigne (marteau)
+Shop Sign (Crest)|看板（紋章）|Enseigne (cimier)
+Log Bridge (V)|丸太の橋（縦）|Pont en rondins (V)
+Log Bridge (H)|丸太の橋（横）|Pont en rondins (H)
+Wood Bridge (V)|木の橋（縦）|Pont en bois (V)
+Wood Bridge (H)|木の橋（横）|Pont en bois (H)
+Stone Bridge (V)|石の橋（縦）|Pont en pierre (V)
+Stone Bridge (H)|石の橋（横）|Pont en pierre (H)
+Wood Bridge (V)|木の橋（縦）|Pont en bois (V)
+Wood Bridge (H)|木の橋（横）|Pont en bois (H)
+Bridge Spar (Wood)|橋げた（木）|Poutre de pont (bois)
+Bridge Spar (Wood)|橋げた（木）|Poutre de pont (bois)
+Bridge Spar (Wood)|橋げた（木）|Poutre de pont (bois)
+Bridge Spar (Wood)|橋げた（木）|Poutre de pont (bois)
+Bridge Spar (Stone)|橋げた（石）|Poutre de pont (pierre)
+Bridge Spar (Stone)|橋げた（石）|Poutre de pont (pierre)
+Bridge Spar (Stone)|橋げた（石）|Poutre de pont (pierre)
+Bridge Spar (Stone)|橋げた（石）|Poutre de pont (pierre)
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Stained Glass Window|ステンドグラス|Vitrail
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Stained Glass Window|ステンドグラス|Vitrail
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Stained Glass Window|ステンドグラス|Vitrail
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Chimney|煙突|Cheminée
+Mooring Bollard|ビット|Bitte d'amarrage
+Mooring Bollard|ビット|Bitte d'amarrage
+Entrance|入口|Entrée
+Entrance|入口|Entrée
+Entrance (Top Half)|入口（上半分）|Entrée (moitié supérieure)
+Entrance|入口|Entrée
+Entrance (Top Half)|入口（上半分）|Entrée (moitié supérieure)
+Chimney|煙突|Cheminée
+Sign|立て札|Pancarte
+Sign|立て札|Pancarte
+Well|井戸|Puit
+Stepping Stones|踏み石|Dalles de pierre
+Barrel|樽|Tonneau
+Grave|墓|Tombe
+Grave|墓|Tombe
+Vase|壺|Vase
+Basin|桶|Bassine
+Basin|桶|Bassine
+Rock Fire Pit|石のかまど|Four en pierre
+Rock Fire Pit|石のかまど|Four en pierre
+Barricade (H)|バリケード（横）|Barricade (H)
+Barricade (V)|バリケード（縦）|Barricade (V)
+Beanstalk|豆の木|Branche de haricot
+Grass|草|Herbe
+Grass|草|Herbe
+Grass|草|Herbe
+Grass|草|Herbe
+Stump|切り株|Souche d'arbre
+Tree|木|Arbre
+Tree|木|Arbre
+Boulder|岩|Rocher
+Flowers|花|Fleurs
+Flowers|花|Fleurs
+Flowers|花|Fleurs
+Flowers|花|Fleurs
+Fallen Log|倒木|Tronc d'arbre
+Tree|木|Arbre
+Bush|植え込み|Buisson
+Boulder|岩|Rocher
+Scarecrow|かかし|Épouvantail
+Hole|穴|Trou
+Firewood|薪|Bois de chauffage
+Rocks|小石|Cailloux
+Crops|農作物|Culture
+Crops|農作物|Culture
+Crops|農作物|Culture
+Crops|農作物|Culture
+Tree|木|Arbre
+Tree|木|Arbre
+Tree|木|Arbre
+Tree|木|Arbre
+Crate|木箱|Caisse en bois
+Crate|木箱|Caisse en bois
+Crate|木箱|Caisse en bois
+Crate|木箱|Caisse en bois
+Tree|木|Arbre
+Tree|木|Arbre
+Tree|木|Arbre
+Tree|木|Arbre
+Crate|木箱|Caisse en bois
+Crate|木箱|Caisse en bois
+Crate|木箱|Caisse en bois
+Crate|木箱|Caisse en bois
+Conifer Tree (Snow)|針葉樹（雪）|Sapin (neige)
+Conifer Tree (Snow)|針葉樹（雪）|Sapin (neige)
+Conifer Tree (Snow)|針葉樹（雪）|Sapin (neige)
+Conifer Tree (Snow)|針葉樹（雪）|Sapin (neige)
+Scarecrow (Snow)|かかし（雪）|Épouvantail (neige)
+Vase (Snow)|壺（雪）|Vase (neige)
+Bucket (Snow)|桶（雪）|Seau (neige)
+Crate (Snow)|木箱（雪）|Caisse en bois (neige)
+Conifer Tree (Snow)|針葉樹（雪）|Sapin (neige)
+Conifer Tree (Snow)|針葉樹（雪）|Sapin (neige)
+Conifer Tree (Snow)|針葉樹（雪）|Sapin (neige)
+Conifer Tree (Snow)|針葉樹（雪）|Sapin (neige)
+Mooring Bollard (Snow)|ビット（雪）|Bitte d'amarrage (neige)
+Barricade (H, Snow)|バリケード（横・雪）|Barricade (H, neige)
+Barricade (H, Snow)|バリケード（縦・雪）|Barricade (H, neige)
+Beanstalk (Snow)|豆の木（雪）|Branche de haricot (neige)
+Chimney (Snow)|煙突（雪）|Cheminée (neige)
+Sign (Snow)|立て札（雪）|Pancarte (neige)
+Sign (Snow)|立て札（雪）|Pancarte (neige)
+Well (Snow)|井戸（雪）|Puit (neigh)
+Stepping Stones (Snow)|踏み石（雪）|Dalles en pierre (neige)
+Barrel (Snow)|樽（雪）|Tonneau (neige)
+Grave (Snow)|墓（雪）|Tombe (neige)
+Grave (Snow)|墓（雪）|Tombe (neige)
+Grass (Snow)|草（雪）|Tombe (neige)
+Grass (Snow)|草（雪）|Tombe (neige)
+Grass (Snow)|草（雪）|Tombe (neige)
+Grass (Snow)|草（雪）|Tombe (neige)
+Stump (Snow)|切り株（雪）|Souche (neige)
+Conifer Tree (Snow)|針葉樹（雪）|Sapin (neige)
+Conifer Tree (Snow)|針葉樹（雪）|Sapin (neige)
+Boulder (Snow)|岩（雪）|Rocher (neige)
+Snowman|雪だるま|Bonhomme de neige
+Hole (Snow)|穴（雪）|Trou (neige)
+Firewood (Snow)|薪（雪）|Bois de chauffage (neige)
+Rocks (Snow)|小石（雪）|Cailloux (neigh)
+Fallen Log (Snow)|倒木（雪）|Tronc d'arbre (neige)
+Conifer Tree (Snow)|針葉樹（雪）|Sapin (neige)
+Bush (Snow)|植え込み（雪）|Buisson (neige)
+Boulder (Snow)|岩（雪）|Rocher (neige)
+Dead Tree|枯れ木|Arbre mort
+Dead Tree|枯れ木|Arbre mort
+Mushrooms|キノコ|Champignons
+Mushrooms|キノコ|Champignons
+Palm Tree|ヤシの木|Palmier
+Palm Tree|ヤシの木|Palmier
+Cactus|サボテン|Cactus
+Dead Grass|枯れ草|Herbe morte
+Dead Tree|枯れ木|Arbre mort
+Dead Tree|枯れ木|Arbre mort
+Rafflesia|ラフレシア|Rafflesia
+Stump (Moss)|切り株（苔）|Souche (mousse)
+Palm Tree|ヤシの木|Palmier
+Bush (Flowers)|植え込み（花）|Buisson (fleurs)
+Fern|シダ|Fougère
+Dead Grass|枯れ草|Herbe morte
+Hay|干し草|Paille
+Hay (Snow)|干し草（雪）|Paille (neige)
+Floral Patch|花畑|Champ de fleurs
+Susuki Grass|ススキ|Herbe susuki
+Fallen Leaves|落ち葉|Feuilles mortes
+Lotus Pads|蓮の葉|Nénuphars
+Lotus Pads (Flowers)|蓮の葉（花）|Lotus (fleurs)
+Lotus Pads|蓮の葉|Nénuphars
+Wall Vines|壁のツタ|Plantes grimpantes
+Wall Vines|壁のツタ|Plantes grimpantes
+Leafless Wall Vines|壁のつる|Plantes grimpantes sans feuilles
+Wall Fern|壁のシダ|Fougère murale
+Fissures|亀裂|Fissures
+Fissures|亀裂|Fissures
+Fissures|亀裂|Fissures
+Fissures|亀裂|Fissures
+Wall Vines|壁のツタ|Plantes grimpantes
+Wall Vines|壁のツタ|Plantes grimpantes
+Leafless Wall Vines|壁のつる|Plantes grimpantes sans feuilles
+Wall Moss|壁の苔|Mousse murale
+Fissures|亀裂|Fissures
+Fissures|亀裂|Fissures
+Fissures|亀裂|Fissures
+Fissures|亀裂|Fissures
+Tent|テント|Tente
+Tent|テント|Tente
+Tent|テント|Tente
+Streetlight|街灯|Lampadaire
+Stairs (Up)|階段（上り）|Escalier (montée)
+Stairs (Up)|階段（上り）|Escalier (montée)
+Stairs (Up)|階段（上り）|Escalier (montée)
+Stairs (Up)|階段（上り）|Escalier (montée)
+Tent|テント|Tente
+Tent|テント|Tente
+Tent|テント|Tente
+Streetlight|街灯|Lampadaire
+Stairs (Down)|階段（下り）|Escalier (descente)
+Stairs (Down)|階段（下り）|Escalier (descente)
+Stairs (Down)|階段（下り）|Escalier (descente)
+Stairs (Down)|階段（下り）|Escalier (descente)
+Tent|テント|Tente
+Tent (Entrance)|テント（入口）|Tente (entrée)
+Tent|テント|Tente
+Streetlight|街灯|Lampadaire
+Metal Ladder|鉄ばしご|Échelle en métal
+Rope Ladder|縄ばしご|Échelle de corde
+Rope|ロープ|Corde
+Vines|ツタ|Plantes grimpantes
+Tent (Snow)|テント（雪）|Tente (neige)
+Tent (Snow)|テント（雪）|Tente (neige)
+Tent (Snow)|テント（雪）|Tente (neige)
+Streetlight (Snow)|街灯（雪）|Lampadaire (neige)
+Metal Ladder|鉄ばしご|Échelle en métal
+Rope Ladder|縄ばしご|Échelle de corde
+Rope|ロープ|Corde
+Vines|ツタ|Plantes grimpantes
+Tent (Snow)|テント（雪）|Tente
+Tent (Snow)|テント（雪）|Tente
+Tent (Snow)|テント（雪）|Tente
+Streetlight (Snow)|街灯（雪）|Lampadaire (neige)
+Metal Ladder|鉄ばしご|Échelle en métal
+Rope Ladder|縄ばしご|Échelle de corde
+Rope|ロープ|Corde
+Vines (Down)|ツタ（下り）|Plantes grimpantes (descente)
+Tent (Snow)|テント（雪）|Tente
+Tent (Entrance, Snow)|テント（入口・雪）|Tente (entrée, neige)
+Tent (Snow)|テント（雪）|Tente (neige)
+Streetlight (Snow)|街灯（雪）|Lampadaire (neige)
+Hole (Metal Ladder)|穴（鉄ばしご）|Trou (échelle en métal)
+Hole (Rope Ladder)|穴（縄ばしご）|Trou (échelle de corde)
+Hole (Rope)|穴（ロープ）|Trou (corde)
+Hole|穴|Trou

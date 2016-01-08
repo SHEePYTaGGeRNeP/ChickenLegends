@@ -1,0 +1,256 @@
+Transparent|透明|Transparent
+Beanstalk|豆の木|Branche de haricot
+Stairs (Up)|階段（上り）|Escalier (montée)
+Stairs (Up)|階段（上り）|Escalier (descente)
+Metal Ladder|鉄ばしご|Échelle en métal
+Rope Ladder|縄ばしご|Échelle de corde
+Rope|ロープ|Corde
+Vines|ツタ|Plantes grimpantes
+Beanstalk (Snow)|豆の木（雪）|Branche de haricot (neige)
+Beanstalk (Dead)|豆の木（枯れ）|Branche de haricot (mort)
+Stairs (Down)|階段（下り）|Escalier (descente)
+Stairs (Up)|階段（下り）|Escalier (montée)
+Metal Ladder|鉄ばしご|Échelle en métal
+Rope Ladder|縄ばしご|Échelle de corde
+Rope|ロープ|Corde
+Vines|ツタ|Plantes grimpantes
+Crumbling Wall|崩れた壁|Mur effondré
+Dug-Up Ground|掘られた床|Sol creusé
+Stairs (Up)|階段（上り）|Escalier (montée)
+Stairs (Up)|階段（上り）|Escalier (montée)
+Metal Ladder|鉄ばしご|Échelle en métal
+Rope Ladder|縄ばしご|Échelle de corde
+Rope|ロープ|Corde
+Vines|ツタ（下り）|Plantes grimpantes (descente)
+Crumbling Wall|崩れた壁|Mur effondré
+Dug-Up Ground|掘られた床|Sol creusé
+Stairs (Down)|階段（下り）|Escalier (descente)
+Stairs (Down)|階段（下り）|Escalier (descente)
+Hole (Metal Ladder)|穴（鉄ばしご）|Trou (échelle en métal)
+Hole (Rope Ladder)|穴（縄ばしご）|Trou (échelle de corde)
+Hole (Rope)|穴（ロープ）|Trou (corde)
+Hole|穴|Trou
+Log Bridge (V)|丸太の橋（縦）|Pont en rondins (V)
+Log Bridge (H)|丸太の橋（横）|Pont en rondins (H)
+Wood Bridge (V)|木の橋（縦）|Pont en bois (V)
+Wood Bridge (H)|木の橋（横）|Pont en bois (H)
+Stone Bridge (V)|石の橋（縦）|Pont en pierre (V)
+Stone Bridge (H)|石の橋（横）|Pont en pierre (H)
+Wood Bridge (V)|木の橋（縦）|Pont en bois (V)
+Wood Bridge (H)|木の橋（横）|Pont en bois (H)
+Bridge Spar (Wood)|橋げた（木）|Poutre de pont (bois)
+Bridge Spar (Wood)|橋げた（木）|Poutre de pont (bois)
+Bridge Spar (Wood)|橋げた（木）|Poutre de pont (bois)
+Bridge Spar (Wood)|橋げた（木）|Poutre de pont (bois)
+Bridge Spar (Stone)|橋げた（石）|Poutre de pont (pierre)
+Bridge Spar (Stone)|橋げた（石）|Poutre de pont (pierre)
+Bridge Spar (Stone)|橋げた（石）|Poutre de pont (pierre)
+Bridge Spar (Stone)|橋げた（石）|Poutre de pont (pierre)
+Gravel (Dirt Cave)|砂利（土洞窟）|Gravier (grotte de terre)
+Gravel (Rock Cave)|砂利（岩洞窟）|Gravier (grotte de roche)
+Gravel (Lava Cave)|砂利（溶岩洞窟）|Gravier (grotte de lave)
+Gravel (Ice Cave)|砂利（氷洞窟）|Gravier (grotte de glace)
+Small Sprouts|小さな芽|Petites pousses
+Gravel (Crystal)|砂利（水晶）|Gravier (crystal)
+Detritus (In Body)|床装飾（体内）|Détritus (dans le corps)
+Detritus (Demonic World)|床装飾（魔界）|Détritus (monde démoniaque)
+Boulder (Dirt Cave)|岩（土洞窟）|Rocher (grotte de terre)
+Boulder (Rock Cave)|岩（岩洞窟）|Rocher (grotte de roche)
+Boulder (Lava Cave)|岩（溶岩洞窟）|Rocher (grotte de lave)
+Boulder (Ice Cave)|岩（氷洞窟）|Rocher (grotte de glace)
+Boulder (Grass Maze)|岩（草迷宮）|Rocher (labyrinthe végétal)
+Crystal|水晶|Crystal
+Spherical Lump|球状突起物|Protubérance sphérique
+Boulder (Demonic World)|岩（魔界）|Rocher (monde démoniaque)
+Tall Rock (Dirt Cave)|大きな岩（土洞窟）|Grand rocher (grotte de terre)
+Tall Rock (Rock Cave)|大きな岩（岩洞窟）|Grand rocher (grotte de roche)
+Tall Rock (Lava Cave)|大きな岩（溶岩洞窟）|Grand rocher (grotte de lave)
+Tall Rock (Ice Cave)|大きな岩（氷洞窟）|Grand rocher (grotte de glace)
+Tall Rock (Grass Maze)|大きな岩（草迷宮）|Grand rocher (labyrinthe végétal)
+Large Crystal|大きな水晶|Grand crystal
+Large Growth|大型突起物|Grande protubérance
+Tall Rock (Demonic World)|大きな岩（魔界）|Grand rocher (monde démoniaque)
+Tall Rock (Dirt Cave)|大きな岩（土洞窟）|Grand rocher (grotte de terre)
+Tall Rock (Rock Cave)|大きな岩（岩洞窟）|Grand rocher (grotte de roche)
+Tall Rock (Lava Cave)|大きな岩（溶岩洞窟）|Grand rocher (grotte de lave)
+Tall Rock (Ice Cave)|大きな岩（氷洞窟）|Grand rocher (grotte de glace)
+Tall Rock (Grass Maze)|大きな岩（草迷宮）|Grand rocher (labyrinthe végétal)
+Large Crystal|大きな水晶|Grand crystal
+Large Growth|大型突起物|Grande protubérance
+Tall Rock (Demonic World)|大きな岩（魔界）|Grand rocher (monde démoniaque)
+Stone Pillar|石の柱|Pilier en pierre
+Stone Pillar|石の柱|Pilier en pierre
+Stone Pillar|石の柱|Pilier en pierre
+Stone Pillar (Moss)|石の柱（苔）|Pilier en pierre (mousse)
+Stone Pillar (Ice)|石の柱（氷）|Pilier en pierre (glace)
+Wood Pillar|木の柱|Pilier en bois
+Stone Pillar|石の柱|Pilier en pierre
+Orb Pillar|オーブの柱|Pilier d'orbe
+Stone Pillar|石の柱|Pilier en pierre
+Stone Pillar|石の柱|Pilier en pierre
+Stone Pillar|石の柱|Pilier en pierre
+Stone Pillar (Moss)|石の柱（苔）|Pilier en pierre (mousse)
+Stone Pillar (Ice)|石の柱（氷）|Pilier en pierre (glace)
+Wood Pillar|木の柱|Pilier en bois
+Stone Pillar|石の柱|Pilier en pierre
+Orb Pillar|オーブの柱|Pilier d'orbe
+Broken Stone Pillar|折れた石の柱|Pilier en pierre brisé
+Broken Stone Pillar|折れた石の柱|Pilier en pierre brisé
+Broken Stone Pillar|折れた石の柱|Pilier en pierre brisé
+Broken Stone Pillar (Moss)|折れた石の柱（苔）|Pilier en pierre brisé (mousse)
+Broken Stone Pillar (Ice)|折れた石の柱（氷）|Pilier en pierre brisé (mousse)
+Broken Wood Pillar|折れた木の柱|Pilier en bois brisé
+Broken Stone Pillar|折れた石の柱|Pilier en bois brisé
+Broken Orb Pillar|折れたオーブの柱|Pilier d'orbe brisé
+Rubble|瓦礫|Décombres
+Rubble (Moss)|瓦礫（苔）|Décombres (mousse)
+Rubble (Ice)|瓦礫（氷）|Décombres (glace)
+Broken Wood Pillar|折れた木の柱|Pilier en bois brisé
+Rubble|瓦礫|Décombres
+Scrap Wood|端材|Bout de bois
+Barricade (H)|バリケード（横）|Barricade (H)
+Barricade (V)|バリケード（縦）|Barricade (V)
+Wall Bracing|壁の補強材|Renfort de mur
+Wall Bracing|壁の補強材|Renfort de mur
+Wall Bracing|壁の補強材|Renfort de mur
+Wall Bracing|壁の補強材|Renfort de mur
+Wall Bracing|壁の補強材|Renfort de mur
+Wall Bracing (Abandoned Mine)|壁の補強材（廃坑）|Renfort de mur (mine abandonnée)
+Wall Bracing (Abandoned Mine)|壁の補強材（廃坑）|Renfort de mur (mine abandonnée)
+Wall Bracing (Abandoned Mine)|壁の補強材（廃坑）|Renfort de mur (mine abandonnée)
+Wall Bracing|壁の補強材|Renfort de mur
+Wall Bracing|壁の補強材|Renfort de mur
+Wall Bracing|壁の補強材|Renfort de mur
+Wall Bracing|壁の補強材|Renfort de mur
+Wall Bracing|壁の補強材|Renfort de mur
+Wall Bracing (Abandoned Mine)|壁の補強材（廃坑）|Renfort de mur (mine abandonnée)
+Wall Bracing (Abandoned Mine)|壁の補強材（廃坑）|Renfort de mur (mine abandonnée)
+Wall Bracing (Abandoned Mine)|壁の補強材（廃坑）|Renfort de mur (mine abandonnée)
+Exit|外への出口|Sortie
+Entrance|入口|Entrée
+Exit|外への出口|Sortie
+Entrance|入口|Entrée
+Exit|外への出口|Sortie
+Entrance|入口|Entrée
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Exit|外への出口|Sortie
+Entrance|入口|Entrée
+Exit|外への出口|Sortie
+Entrance|入口|Entrée
+Light From Exit (Top)|出口からの光（上）| Lumière de sortie (haut)
+Light From Exit (Bottom)|出口からの光（下）|Lumière de sortie (bas)
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Spider Web|蜘蛛の巣|Toile d'araignée
+Stone Tablet|石版|Tablette en pierre
+Stone Tablet (Ruins)|石版（廃墟）|Tablette en pierre (ruines)
+Entrance|入口|Entrée
+Entrance|入口|Entrée
+Entrance (Top Half)|入口（上半分）|Entrée (moitié supérieure)
+Entrance|入口|Entrée
+Entrance (Top Half)|入口（上半分）|Entrée (moitié supérieure)
+Wall Vines|壁のツタ|Plantes grimpantes (mur)
+Wall Vines|壁のツタ|Plantes grimpantes (mur)
+Leafless Wall Vines|壁のつる|Plantes grimpantes sans feuilles
+Wall Fern|壁のシダ|Fougère murale
+Fissures|亀裂|Fissures
+Fissures|亀裂|Fissures
+Fissures|亀裂|Fissures
+Fissures|亀裂|Fissures
+Wall Vine|壁のツタ|Plante grimpante
+Wall Vine|壁のツタ|Plante grimpante
+Leafless Wall Vines|壁のつる|Plantes grimpantes sans feuilles
+Wall Moss|壁の苔|Mousse murale
+Fissures|亀裂|Fissures
+Fissures|亀裂|Fissures
+Fissures|亀裂|Fissures
+Fissures|亀裂|Fissures
+Monument|石碑|Stèle
+Monument|石碑|Stèle
+Monument|石碑|Stèle
+Monument|石碑|Stèle
+Monument|石碑|Stèle
+Monument (Lit)|石碑（光）|Stèle (lumineuse)
+Monument (Lit)|石碑（光）|Stèle (lumineuse)
+Monument (Lit)|石碑（光）|Stèle (lumineuse)
+Monument|石碑|Stèle
+Monument|石碑|Stèle
+Monument|石碑|Stèle
+Monument|石碑|Stèle
+Monument|石碑|Stèle
+Monument (Lit)|石碑（光）|Stèle (lumineuse)
+Monument (Lit)|石碑（光）|Stèle (lumineuse)
+Monument (Lit)|石碑（光）|Stèle (lumineuse)
+Statue|石像|Statue
+Goddess Statue|女神像|Statue de déesse
+Goddess Statue|女神像|Statue de déesse
+Dais|台座|Piédestal
+Statue|石像|Statue
+Demon Statue|悪魔像|Statue de démon
+Dragon Statue|竜像|Statue de dragon
+Dragon Statue|竜像|Statue de dragon
+Statue|石像|Statue
+Goddess Statue|女神像|Statue de déesse
+Goddess Statue|女神像|Statue de déesse
+Broken Statue|壊れた像|Statue brisée
+Statue|石像|Statue
+Demon Statue|悪魔像|Statue de démon
+Dragon Statue|竜像|Statue de dragon
+Dragon Statue|竜像|Statue de dragon
+Dirt Mound|土砂|Monticule de terre
+Dirt Mound|土砂|Monticule de terre
+Gravel Mound|土砂（石）|Monticule de gravier
+Gravel Mound|土砂（石）|Monticule de gravier
+Gold Mound|金の山|Montagne d'or
+Gold Mound|金の山|Montagne d'or
+Silver Mound|銀の山|Montagne d'argent
+Silver Mound|銀の山|Montagne d'argent
+Dirt Mound|土砂|Monticule de terre
+Dirt Mound|土砂|Monticule de terre
+Gravel Mound|土砂（石）|Monticule de gravier
+Gravel Mound|土砂（石）|Monticule de gravier
+Gold Mound|金の山|Montagne d'or
+Gold Mound|金の山|Montagne d'or
+Silver Mound|銀の山|Montagne d'argent
+Silver Mound|銀の山|Montagne d'argent
+Dirt Mound|土砂|Monticule de terre
+Gravel Mound|土砂（石）|Monticule de gravier
+Gold Bricks|金の延べ棒|Lingots d'or
+Gold Bricks|金の延べ棒|Lingots d'or
+Crate|木箱|Caisse en bois
+Crate|木箱|Caisse en bois
+Crate (Ruins)|木箱（廃墟）| Caisse en bois (ruines)
+Vase (Ruins)|壺（廃墟）|Vase (ruines)
+Gold Mound|金の山|Montagne d'or
+Silver Mound|銀の山|Montagne d'argent
+Gold Bricks|銀の延べ棒|Lingots d'or
+Gold Bricks|銀の延べ棒|Lingots d'or
+Crate|木箱|Caisse en bois
+Crate|木箱|Caisse en bois
+Vase|壺|Vase
+Vase|壺|Vase
+Shovel|スコップ|Pelle
+Pickax|つるはし|Pioche
+Rope|ロープ|Corde
+Mound of Gold Coins|金貨の山|Montagne de pièces d'or
+Crate|木箱|Caisse en bois
+Crate|木箱|Caisse en bois
+Barrel|樽|Tonneau
+Barrel (Ruins)|樽（廃墟）|Tonneau (ruines)
+Bones|骸骨|Ossements
+Bones|骸骨|Ossements
+Bones|骸骨|Ossements
+Table (Ruins)|テーブル（廃墟）|Table (ruines)
+Jail Bars|鉄格子|Barreaux de prison
+Jail Bars|鉄格子|Barreaux de prison
+Jail Bars|鉄格子|Barreaux de prison
+Jail Bars|鉄格子|Barreaux de prison
+Bones|骸骨|Ossements
+Bones|骸骨|Ossements
+Bones|骸骨|Ossements
+Stool (Ruins)|椅子（廃墟）|Tabouret (ruine)
+Jail Bars|鉄格子|Barreaux de prison
+Jail Bars|鉄格子|Barreaux de prison
+Jail Bars|鉄格子|Barreaux de prison
+Jail Bars|鉄格子|Barreaux de prison

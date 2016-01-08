@@ -1,0 +1,48 @@
+Wall (Stone)|壁（石）|Mur (pierre)
+Wall (Brick)|壁（レンガ）|Mur (brique)
+Wall (Stone)|壁（石）|Mur (pierre)
+Wall (Stone)|壁（石）|Mur (pierre)
+Wall (Stone)|壁（石）|Mur (pierre)
+Castle|城|Château
+Wall (Fort)|壁（砦）|Mur (fort)
+Wall (Demon Castle)|壁（魔王城）|Mur (château démoniaque)
+Wall (Stone)|壁（石）|Mur (pierre)
+Wall (Brick)|壁（レンガ）|Mur (brique)
+Wall (Stone)|壁（石）|Mur (pierre)
+Wall (Stone)|壁（石）|Mur (pierre)
+Wall (Stone)|壁（石）|Mur (pierre)
+Castle|城|Château
+Wall (Fort)|壁（砦）|Mur (fort)
+Wall (Demon Castle)|壁（魔王城）|Mur (château démoniaque)
+Wall (Wood)|壁（木造）|Mur (bois)
+Wall (Log)|壁（丸太）|Mur (rondins)
+Wall (Wood)|壁（木造）|Mur (bois)
+Interior Wall|内装壁|Mur intérieur
+Interior Wall|内装壁|Mur intérieur
+Wall (Stone)|壁（石）|Mur (pierre)
+Wall (Marble)|壁（大理石）|Mur (marbre)
+Wall (Concrete)|壁（コンクリート）|Mur (béton)
+Wall (Wood)|壁（木造）|Mur (bois)
+Wall (Log)|壁（丸太）|Mur (rondins)
+Wall (Wood)|壁（木造）|Mur (bois)
+Interior Wall|内装壁|Mur intérieur
+Interior Wall|内装壁|Mur intérieur
+Wall (Stone)|壁（石）|Mur (pierre)
+Wall (Marble)|壁（大理石）|Mur (marbre)
+Wall (Concrete)|壁（コンクリート）|Mur (béton)
+Interior Wall|内装壁|Mur intérieur
+Interior Wall|内装壁|Mur intérieur
+Interior Wall|内装壁|Mur intérieur
+Interior Wall|内装壁|Mur intérieur
+Interior Wall|内装壁|Mur intérieur
+Interior Wall|内装壁|Mur intérieur
+Wall (Tent)|壁（テント）|Mur (tente)
+Stage|舞台|Scène
+Interior Wall|内装壁|Mur intérieur
+Interior Wall|内装壁|Mur intérieur
+Interior Wall|内装壁|Mur intérieur
+Interior Wall内装壁|Mur intérieur
+Interior Wall|内装壁|Mur intérieur
+Interior Wall|内装壁|Mur intérieur
+Wall (Tent)|壁（テント）|Mur (tente)
+Stage|舞台|Scène

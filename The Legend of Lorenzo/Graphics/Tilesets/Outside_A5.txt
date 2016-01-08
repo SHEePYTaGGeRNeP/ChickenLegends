@@ -1,0 +1,128 @@
+Darkness|暗闇|Obscurité
+Wire Mesh|金網|Grillage
+Large Bridge (V)|大きな橋（縦）|Grand pont (V)
+Large Bridge (V)|大きな橋（縦）|Grand pont (V)
+Large Bridge (V)|大きな橋（縦）|Grand pont (V)
+Large Bridge (H)|大きな橋（横）|Grand pont (H)
+Large Bridge (H)|大きな橋（横）|Grand pont (H)
+Large Bridge (Snow, H)|大きな橋（雪・横）|Grand pont (neige, H)
+Transparent|透明|Transparent
+Wire Mesh|金網|Grillage
+Large Bridge (Snow, V)|大きな橋（雪・縦）|Grand pont (neige, V)
+Large Bridge (Snow, V)|大きな橋（雪・縦）|Grand pont (neige, V)
+Large Bridge (Snow, V)|大きな橋（雪・縦）|Grand pont (neige, V)
+Large Bridge (H)|大きな橋（横）|Grand pont (H)
+Large Bridge (Snow,H)|大きな橋（雪・横）|Grand pont (neige, H)
+Large Bridge (Snow,H)|大きな橋（雪・横）|Grand pont (neige, H)
+Meadow|草地|Prairie
+Dirt|土|Terre
+Desert|砂地|Désert
+Snow|雪|Neige
+Meadow|草地|Prairie
+Dirt|土|Terre
+Desert|砂地|Désert
+Snow|雪|Neige
+Stairs (Meadow)|階段（草地）|Escalier (prairie)
+Stairs (Meadow)|階段（草地）|Escalier (prairie)
+Stairs (Meadow)|階段（草地）|Escalier (prairie)
+Stairs (Meadow)|階段（草地）|Escalier (prairie)
+Stairs (Dirt)|階段（土）|Escalier (terre)
+Stairs (Dirt)|階段（土）|Escalier (terre)
+Stairs (Dirt)|階段（土）|Escalier (terre)
+Stairs (Dirt)|階段（土）|Escalier (terre)
+Cobblestones|石畳|Pavés
+Cobblestones|石畳|Pavés
+Cobblestones|石畳|Pavés
+Cobblestones|石畳|Pavés
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Stairs (Desert)|階段（砂地）|Escalier (désert)
+Stairs (Desert)|階段（砂地）|Escalier (désert)
+Stairs (Desert)|階段（砂地）|Escalier (désert)
+Stairs (Desert)|階段（砂地）|Escalier (désert)
+Stairs (Snow)|階段（雪）|Escalier (neige)
+Stairs (Snow)|階段（雪）|Escalier (neige)
+Stairs (Snow)|階段（雪）|Escalier (neige)
+Stairs (Snow)|階段（雪）|Escalier (neige)
+Cobblestones|石畳|Pavés
+Cobblestones|石畳|Pavés
+Cobblestones|石畳|Pavés
+Ice Floor|氷の床|Sol gelé
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Ice Floor|氷の床|Sol gelé
+Stairs (Paved)|階段（舗装）|Escalier (pavé)
+Stairs (Paved)|階段（舗装）|Escalier (pavé)
+Stairs (Paved)|階段（舗装）|Escalier (pavé)
+Stairs (Paved)|階段（舗装）|Escalier (pavé)
+Stairs (Ruins)|階段（廃墟）|Escalier (pavé)
+Stairs (Ruins)|階段（廃墟）|Escalier (pavé)
+Stairs (Ruins)|階段（廃墟）|Escalier (pavé)
+Stairs (Ruins)|階段（廃墟）|Escalier (pavé)
+Ledge (Port)|段差（港）|Rebord (port)
+Ledge (Port)|段差（港）|Rebord (port)
+Ledge (Port)|段差（港）|Rebord (port)
+Ledge (Port)|段差（港）|Rebord (port)
+Cobblestones|石畳|Pavés
+Cobblestones|石畳|Pavés
+Ground (Cloud)|雲の床|
+Ground (Cloud)|雲の床|
+Farm Field|畑|Champ
+Farm Field|畑|Champ
+Farm Field (Snow)|畑（雪）|Champ (neige)
+Farm Field (Snow)|畑（雪）|Champ (neigh)
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Farm Field|畑|Champ
+Farm Field|畑|Champ
+Farm Field (Snow)|畑（雪）|Champ (neige)
+Farm Field (Snow)|畑（雪）|Champ (neige)
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Stairs (Meadow)|段差（草地）|Escalier (prairie)
+Stairs (Meadow)|段差（草地）|Escalier (prairie)
+Stairs (Meadow)|段差（草地）|Escalier (prairie)
+Garden|花壇|Jardin
+Garden (Snow)|花壇（雪）|Jardin (neige)
+Ledge (Dirt)|段差（土）|Rebord (terre)
+Ledge (Dirt)|段差（土）|Rebord (terre)
+Ledge (Dirt)|段差（土）|Rebord (terre)
+Stairs (Meadow)|段差（草地）|Escalier (prairie)
+Stairs (Meadow)|段差（草地）|Escalier (prairie)
+Stairs (Meadow)|段差（草地）|Escalier (prairie)
+Stairs (Meadow)|段差（草地）|Escalier (prairie)
+Stairs (Meadow)|段差（草地）|Escalier (prairie)
+Ledge (Dirt)|段差（土）|Rebord (terre)
+Ledge (Dirt)|段差（土）|Rebord (terre)
+Ledge (Dirt)|段差（土）|Rebord (terre)
+Stairs (Meadow)|段差（草地）|Escalier (prairie)
+Stairs (Meadow)|段差（草地）|Escalier (prairie)
+Stairs (Meadow)|段差（草地）|Escalier (prairie)
+Stairs (Meadow)|段差（草地）|Escalier (prairie)
+Stairs (Meadow)|段差（草地）|Escalier (prairie)
+Ledge (Dirt)|段差（土）|Rebord (terre)
+Ledge (Dirt)|段差（土）|Rebord (terre)
+Ledge (Dirt)|段差（土）|Rebord (terre)
+Cliff|崖|Falaise
+Cliff|崖|Falaise
+Cliff|崖|Falaise
+Ledge (Dirt)|段差（土）|Rebord (terre)
+Ledge (Dirt)|段差（土）|Rebord (terre)
+Cliff|崖|Falaise
+Cliff|崖|Falaise
+Cliff|崖|Falaise
+Cliff (Meadow)|崖（草地）|Falaise (prairie)
+Cliff (Meadow)|崖（草地）|Falaise (prairie)
+Cliff (Meadow)|崖（草地）|Falaise (prairie)
+Ledge (Dirt)|段差（土）|Rebord (terre)
+Ledge (Dirt)|段差（土）|Rebord (terre)
+Cliff (Dirt)|崖（土）|Falaise (terre)
+Cliff (Dirt)|崖（土）|Falaise (terre)
+Cliff (Dirt)|崖（土）|Falaise (terre)

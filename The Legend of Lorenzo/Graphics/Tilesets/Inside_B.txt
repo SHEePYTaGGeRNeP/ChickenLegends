@@ -1,0 +1,256 @@
+Transparent|透明|Transparent
+Stairs (Up)|階段（上り）|Escalier (montée)
+Stairs (Up)|階段（上り）| Escalier (montée)
+Stairs (Up)|階段（上り）| Escalier (montée)
+Stairs (Up)|階段（上り）| Escalier (montée)
+Metal Ladder|鉄ばしご|Échelle en métal
+Rope Ladder|縄ばしご|Échelle de corde
+Rope|ロープ|Corde
+Hole|穴|Trou
+Stairs (Down)|階段（下り）|Escalier (descente)
+Stairs (Down)|階段（下り）|Escalier (descente)
+Stairs (Down)|階段（下り）|Escalier (descente)
+Stairs (Down)|階段（下り）|Escalier (descente)
+Metal Ladder|鉄ばしご|Échelle en métal
+Rope Ladder|縄ばしご|Échelle de corde
+Rope|ロープ|Corde
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window (Ruins)|窓（廃墟）|Fenêtre (ruines)
+Window (Demon Castle)|窓（魔王城）|Fenêtre (château démoniaque)
+Metal Ladder|鉄ばしご|Échelle en métal
+Rope Ladder|縄ばしご|Échelle de corde
+Rope|ロープ|Corde
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window (Ruins)|窓（廃墟）|Fenêtre (ruines)
+Window (Demon Castle)|窓（魔王城）|Fenêtre (château démoniaque)
+Hole (Metal Ladder)|穴（鉄ばしご）|Trou (échelle en métal)
+Hole (Rope Ladder)|穴（縄ばしご）|Trou (échelle de corde)
+Hole (Rope)|穴（ロープ）|Trou (corde)
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Stained Glass Window|ステンドグラス|Vitrail
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Stained Glass Window|ステンドグラス|Vitrail
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Window|窓|Fenêtre
+Chest|チェスト|Coffre
+Cabinet|キャビネット|Cabinet
+Closet|クローゼット|Placard
+Chest of Drawers|タンス|Commode
+Dish Cabinet|食器棚|Vaisselier
+Wine Rack|ワインセラー|Cellier à vin
+Bottle Shelf|ボトル棚|Étagère de bouteilles
+Bottle Shelf|ボトル棚|Étagère de bouteilles
+Chest|チェスト|Coffre
+Chest|チェスト|Coffre
+Closet|クローゼット|Placard
+Chest of Drawers|タンス|Commode
+Dish Cabinet|食器棚|Vaisselier
+Wine Rack|ワインセラー|Cellier à vin
+Bottle Shelf|ボトル棚|Étagère de bouteilles
+Bottle Shelf|ボトル棚|Étagère de bouteilles
+Bread Shelf|パン棚|Étagère de pain
+Sundries Shelf|雑貨棚|Étagère d'objets
+Sundries Shelf|雑貨棚|Étagère d'objets
+Sundries Shelf|雑貨棚|Étagère d'objets
+Medicine Shelf|薬品棚|Étagère de médicaments
+Bookshelf|本棚|Bibliothèque
+Bookshelf|本棚|Bibliothèque
+Bookshelf|本棚|Bibliothèque
+Bread Shelf|パン棚|Étagère de pain
+Sundries Shelf|雑貨棚|Étagère d'objets
+Sundries Shelf|雑貨棚|Étagère d'objets
+Sundries Shelf|雑貨棚|Étagère d'objets
+Medicine Shelf|薬品棚|Étagère de médicaments
+Bookshelf|本棚|Bibliothèque
+Bookshelf|本棚|Bibliothèque
+Bookshelf|本棚|Bibliothèque
+Bed|ベッド|Lit
+Large Bed|ダブルベッド|Grand lit
+Large Bed|ダブルベッド|Grand lit
+Large Bed|パイプベッド|Grand lit
+Cheap Bed|粗末なベッド|Lit de fortune
+Straw Bed|むしろの寝床|Lit de paille
+Bed (Ruins)|ベッド（廃墟）|Lit (ruines)
+Tipped Shel|倒れた棚|Étagère renversée
+Bed|ベッド|Lit
+Large Bed|ダブルベッド|Grand lit
+Large Bed|ダブルベッド|Grand lit
+Pipe Frame Bed|パイプベッド|Lit en métal
+Cheap Bed|粗末なベッド|Lit de fortune
+Straw Bed|むしろの寝床|Lit de paille
+Bed (Ruins)|ベッド（廃墟）|Lit (ruines)
+Tipped Shel|倒れた棚|Étagère renversée
+Table|テーブル|Table
+Table|テーブル|Table
+Table|テーブル|Table
+Fortuneteller's Table|占い台|Table de diseur de bonne aventure
+Mini Table|ミニテーブル|Petite table
+Piano|ピアノ|Piano
+Piano|ピアノ|Piano
+Piano|ピアノ|Piano
+Stool|椅子|Tabouret
+Stool|椅子|Tabouret
+Stool|椅子|Tabouret
+Fortuneteller's Table (Crystal)|占い台（水晶）|Table de diseur de bonne aventure (crystal)
+Mini Table (Flower)|ミニテーブル（花瓶）|Petite table (fleur)
+Piano|ピアノ|Piano
+Piano|ピアノ|Piano
+Piano|ピアノ|Piano
+Oven|かまど|Four
+Sink|流し|Évier
+Kitchen Counter|調理台|Comptoir de cuisine
+Kitchen Counter|調理台|Comptoir de cuisine
+Dresser|ドレッサー|Commodes de linge
+Pipe Organ|パイプオルガン|Orgue
+Pipe Organ|パイプオルガン|Orgue
+Pipe Organ|パイプオルガン|Orgue
+Simple Shelf|簡易棚|Étagère simple
+Simple Shelf (Jars)|簡易棚（瓶）|Étagère simple (jarres)
+Simple Shelf (Books)|簡易棚（本）|Étagère simple (livres)
+Simple Shelf (Sacks)|簡易棚（袋）|Étagère simple (sacs)
+Simple Shelf (Bottles)|簡易棚（ボトル）|Étagère simple (bouteilles)
+Pipe Organ|パイプオルガン|Orgue
+Pipe Organ|パイプオルガン|Orgue
+Pipe Organ|パイプオルガン|Orgue
+Fireplace|暖炉|Cheminée
+Fireplace|暖炉|Cheminée
+Fireplace|暖炉|Cheminée
+Fireplace|暖炉|Cheminée
+Fireplace|暖炉|Cheminée
+Fireplace|暖炉|Cheminée
+Tapestry|タペストリー|Tapisserie
+Tapestry (Ruins)|タペストリー（廃墟）|Tapisserie (ruines)
+Fireplace|暖炉|Cheminée
+Fireplace|暖炉|Cheminée
+Fireplace|暖炉|Cheminée
+Fireplace|暖炉|Cheminée
+Fireplace|暖炉|Cheminée
+Fireplace|暖炉|Cheminée
+Tapestry|タペストリー|Tapisserie
+Tapestry (Ruins)|タペストリー（廃墟）|Tapisserie (ruines)
+Curtains|カーテン|Rideaux
+Curtains|カーテン|Rideaux
+Curtains|カーテン|Rideaux
+Curtains|カーテン|Rideaux
+Curtains (Ruins)|カーテン（廃墟）|Rideaux (ruines)
+Curtains (Ruins)|カーテン（廃墟）|Rideaux (ruines)
+Curtains (Ruins)|カーテン（廃墟）|Rideaux (ruines)
+Curtains (Ruins)|カーテン（廃墟）|Rideaux (ruines)
+Curtains|カーテン|Rideaux
+Curtains|カーテン|Rideaux
+Curtains|カーテン|Rideaux
+Curtains|カーテン|Rideaux
+Curtains (Ruins)|カーテン（廃墟）|Rideaux (ruines)
+Curtains (Ruins)|カーテン（廃墟）|Rideaux (ruines)
+Curtains (Ruins)|カーテン（廃墟）|Rideaux (ruines)
+Curtains (Ruins)|カーテン（廃墟）|Rideaux (ruines)
+Clock|時計|Horloge
+Mirror|鏡|Miroir
+Posted Notice|貼り紙|Notification
+Posted Notice (Ruins)|貼り紙（廃墟）|Notification (ruines)
+World Map|世界地図|Carte du monde
+World Map|世界地図|Carte du monde
+Painting|絵画|Tableau
+Painting|絵画|Tableau
+Clock|時計|Horloge
+Mirror|鏡|Miroir
+Stone Tablet|石版|Tablette en pierre
+Stone Tablet(Ruins)|石版（廃墟）|Tablette en pierre (ruines)
+Portrait|肖像画|Portrait
+Portrait|肖像画|Portrait
+Portrait|静物画|Nature morte
+Painting|絵画|Tableau
+Chair|背もたれ椅子|Chaise
+Chair|背もたれ椅子|Chaise
+Throne|玉座|Trône
+Throne|玉座|Trône
+Throne|玉座|Trône
+Throne (Demon Castle)|玉座（魔王城）|Trône (château démoniaque)
+Throne (Demon Castle)|玉座（魔王城）|Trône (château démoniaque)
+Throne (Demon Castle)|玉座（魔王城）|Trône (château démoniaque)
+Chair|背もたれ椅子|Chaise
+Chair|背もたれ椅子|Chaise
+Throne|玉座|Trône
+Throne|玉座|Trône
+Throne|玉座|Trône
+Throne (Demon Castle)|玉座（魔王城）|Trône (château démoniaque)
+Throne (Demon Castle)|玉座（魔王城）|Trône (château démoniaque)
+Throne (Demon Castle)|玉座（魔王城）|Trône (château démoniaque)
+Shield|盾|Bouclier
+Swords|剣|Épées
+Swords|剣|Épées
+Entrance|入口|Entrée
+Entrance|入口|Entrée
+Entrance (Top Half)|入口（上半分）|Entrée (moitié supérieure)
+Entrance|入口|Entrée
+Entrance (Top Half)|入口（上半分）|Entrée (moitié supérieure)
+Vase|壺|Vase
+Vase|壺|Vase
+Vase (Ruins)|壺（廃墟）|Vase (ruines)
+Table (Ruins)|テーブル（廃墟）|Table (ruines)
+Stone Pillar|石の柱|Pilier en pierre
+Stone Pillar|石の柱|Pilier en pierre
+Fort Pillar|砦の柱|Pilier de fort
+Rubble|瓦礫|Décombres
+Basin|桶|Bassine
+Barrel|樽|Tonneau
+Barrel (Ruins)|樽（廃墟）|Tonneau (ruines)
+Stool (Ruins)|椅子（廃墟）|Tabouret (ruines)
+Stone Pillar|石の柱|Pilier en pierre
+Stone Pillar|石の柱|Pilier en pierre
+Fort Pilla|砦の柱|Pilier de fort
+Rubble|瓦礫|Décombres
+Basin|桶|Bassine
+Tub|たらい|Baignoire
+Tub|たらい|Baignoire
+Crate(Ruins)|木箱（廃墟）|Caisse en bois (ruines)
+Broken Stone Pillar|折れた石の柱|Pilier en pierre brisé
+Broken Stone Pillar|折れた石の柱|Pilier en pierre brisé
+Broken Fort Pillar|折れた砦の柱|Pilier en pierre brisé
+Scrap Wood|端材|Bout de bois
+Crate|木箱|Caisse en bois
+Crate|木箱|Caisse en bois
+Stacked Crates|積まれた木箱|Caisses empilées
+Stacked Crates|積まれた木箱|Caisses empilées
+Fissures|亀裂|Fissures
+Fissures|亀裂|Fissures
+Fissures|亀裂|Fissures
+Fissures|亀裂|Fissures
+Crate|木箱|Caisse en bois
+Crate|木箱|Caisse en bois
+Stacked Crates|積まれた木箱|Caisses empilées
+Stacked Crates|積まれた木箱|Caisses empilées
+Fissures|亀裂|Fissures
+Fissures|亀裂|Fissures
+Fissures|亀裂|Fissures
+Fissures|亀裂|Fissures
+Crate|木箱|Caisse en bois
+Crate|木箱|Caisse en bois
+Sacks|麻袋|Sacs
+Crate|木箱|Caisse en bois
+Jail Bar|鉄格子|Barreau de prison
+Jail Bar|鉄格子|Barreau de prison
+Jail Bar|鉄格子|Barreau de prison
+Jail Bar|鉄格子|Barreau de prison
+Sack|麻袋|Sac
+Sack|麻袋|sac
+Sack|麻袋|Sac
+Crate|木箱|Caisse en bois
+Jail Bar|鉄格子|Barreau de prison
+Jail Bar|鉄格子|Barreau de prison
+Jail Bar|鉄格子|Barreau de prison
+Jail Bar|鉄格子|Barreau de prison

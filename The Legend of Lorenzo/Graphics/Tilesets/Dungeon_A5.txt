@@ -1,0 +1,128 @@
+Darkness|暗闇|Obscurité
+Translucent Floor|半透明の床|Sol translucide
+Translucent Floor|半透明の床|Sol translucide
+Translucent Floor|半透明の床|Sol translucide
+Translucent Floor|半透明の床|Sol translucide
+Stairs (Translucent)|階段（半透明）|Escalier (translucide)
+Stairs (Translucent)|階段（半透明）|Escalier (translucide)
+Wire Mesh|金網|Grillage
+Transparent|透明|Transparent
+Translucent Floor|半透明の床|Sol translucide
+Translucent Floor|半透明の床|Sol translucide
+Translucent Floor|半透明の床|Sol translucide
+Translucent Floor|半透明の床|Sol translucide
+Stairs (Translucent)|階段（半透明）|Escalier (translucide)
+Stairs (Translucent)|階段（半透明）|Escalier (translucide)
+Wire Mesh|金網|Grillage
+Ground (Dirt Cave)|床（土洞窟）|Sol (grotte de terre)
+Ground (Rock Cave)|床（岩洞窟）|Sol (grotte de roche)
+Ground (Lava Cave)|床（溶岩洞窟）|Sol (grotte de lave)
+Ground (Ice Cave)|床（氷洞窟）|Sol (grotte de glace)
+Ground (Grass Maze)|床（草迷宮）|Sol (labyrinthe végétal)
+Ground (Crystal)|床（水晶）|Sol (crystal)
+Ground (In Body)|床（体内）|Sol (dans le corps)
+Ground (Demonic World)|床（魔界）|Sol (monde démoniaque)
+Stairs (Dirt Cave)|階段（土洞窟）|Escalier (grotte de terre)
+Stairs (Dirt Cave)|階段（土洞窟）|Escalier (grotte de terre)
+Stairs (Dirt Cave)|階段（土洞窟）|Escalier (grotte de terre)
+Stairs (Dirt Cave)|階段（土洞窟）|Escalier (grotte de terre)
+Stairs (Rock Cave)|階段（岩洞窟）|Escalier (grotte de roche)
+Stairs (Rock Cave)|階段（岩洞窟）|Escalier (grotte de roche)
+Stairs (Rock Cave)|階段（岩洞窟）|Escalier (grotte de roche)
+Stairs (Rock Cave)|階段（岩洞窟）|Escalier (grotte de roche)
+Cobblestones|石畳|Pavés
+Cobblestones|石畳|Pavés
+Cobblestones|石畳|Pavés
+Cobblestones|石畳|Pavés
+Cobblestones|石畳|Pavés
+Cobblestones|石畳|Pavés
+Cobblestones|石畳|Pavés
+Floor (Demon Castle)|床（魔王城）|Sol (château démoniaque)
+Stairs (Lava Cave)|階段（溶岩洞窟）|Escalier (grotte de lave)
+Stairs (Lava Cave)|階段（溶岩洞窟）|Escalier (grotte de lave)
+Stairs (Lava Cave)|階段（溶岩洞窟）|Escalier (grotte de lave)
+Stairs (Lava Cave)|階段（溶岩洞窟）|Escalier (grotte de lave)
+Stairs (Ice Cave)|階段（氷洞窟）|Escalier (grotte de glace)
+Stairs (Ice Cave)|階段（氷洞窟）|Escalier (grotte de glace)
+Stairs (Ice Cave)|階段（氷洞窟）|Escalier (grotte de glace)
+Stairs (Ice Cave)|階段（氷洞窟）|Escalier (grotte de glace)
+Cobblestones|石畳|Pavés
+Cobblestones|石畳|Pavés
+Icy Ground|氷の床|Sol gelé
+Floor (Factory)|床（工場）|Sol (usine)
+Cobblestones|石畳|Pavés
+Cobblestones|石畳|Pavés
+Cobblestones|石畳|Pavés
+Decorative Tile|化粧タイル|Tile décorative
+Stairs (Grass Maze)|階段（草迷宮）|Escalier (labyrinthe végétal)
+Stairs (Grass Maze)|階段（草迷宮）|Escalier (labyrinthe végétal)
+Stairs (Grass Maze)|階段（草迷宮）|Escalier (labyrinthe végétal)
+Stairs (Grass Maze)|階段（草迷宮）|Escalier (labyrinthe végétal)
+Stairs (Crystal)|階段（水晶）|Escalier (crystal)
+Stairs (Crystal)|階段（水晶）|Escalier (crystal)
+Stairs (Crystal)|階段（水晶）|Escalier (crystal)
+Stairs (Crystal)|階段（水晶）|Escalier (crystal)
+Stairs (In Body)|階段（体内）|Escalier (dans le corps)
+Stairs (In Body)|階段（体内）|Escalier (dans le corps)
+Stairs (In Body)|階段（体内）|Escalier (dans le corps)
+Stairs (In Body)|階段（体内）|Escalier (dans le corps)
+Stairs (Demonic World)|階段（魔界）|Escalier (monde démoniaque)
+Stairs (Demonic World)|階段（魔界）|Escalier (monde démoniaque)
+Stairs (Demonic World)|階段（魔界）|Escalier (monde démoniaque)
+Stairs (Demonic World)|階段（魔界）|Escalier (monde démoniaque)
+Stairs (Stone)|階段（石）|Escalier (pierre)
+Stairs (Stone)|階段（石）|Escalier (pierre)
+Stairs (Stone)|階段（石）|Escalier (pierre)
+Stairs (Stone)|階段（石）|Escalier (pierre)
+Stairs (Ruins)|階段（廃墟）|Escalier (ruines)
+Stairs (Ruins)|階段（廃墟）|Escalier (ruines)
+Stairs (Ruins)|階段（廃墟）|Escalier (ruines)
+Stairs (Ruins)|階段（廃墟）|Escalier (ruines)
+Stairs (Stone)|階段（石）|Escalier (pierre)
+Stairs (Stone)|階段（石）|Escalier (pierre)
+Stairs (Stone)|階段（石）|Escalier (pierre)
+Stairs (Stone)|階段（石）|Escalier (pierre)
+Stairs (Ruins)|階段（廃墟）|Escalier (ruines)
+Stairs (Ruins)|階段（廃墟）|Escalier (ruines)
+Stairs (Ruins)|階段（廃墟）|Escalier (ruines)
+Stairs (Ruins)|階段（廃墟）|Escalier (ruines)
+Ground (Dirt Cave)|床（土洞窟）|Sol (grotte de terre)
+Ground (Rock Cave)|床（岩洞窟）|Sol (grotte de roche)
+Ground (Lava Cave)|床（溶岩洞窟）|Sol (grotte de lave)
+Ground (Ice Cave)|床（氷洞窟）|Sol (grotte de glace)
+Ground (Grass Maze)|床（草迷宮）|Sol (labyrinthe végétal)
+Ground (Crystal)|床（水晶）|Sol (crystal)
+Ground (In Body)|床（体内）|Sol (dans le corps)
+Ground (Demonic World)|床（魔界）|Sol (monde démoniaque)
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Floor (Demon Castle, Ruins)|床（魔王城・廃墟）|Sol (château démoniaque, ruines)
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Icy Ground|氷の床|Sol gelé
+Floor (Factory)|床（工場）|Sol (usine)
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Decorative Tile (Ruins)|化粧タイル（廃墟）|Tile décorative (ruines)
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Directional Floor Tile (Down)|方向床（下）|Tile au sol directionnelle (bas)
+Directional Floor Tile (Up)|方向床（上）|Tile au sol directionnelle (haut)
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Directional Floor Tile (Left)|方向床（左）|Tile au sol directionnelle (gauche)
+Directional Floor Tile (Right)|方向床（右）|Tile au sol directionnelle (droite)
+Relief Floor Tile (Ruins)|レリーフ床（廃墟）|Tile au sol de relief (ruines)
+Relief Floor Tile (Ruins)|レリーフ床（廃墟）|Tile au sol de relief (ruines)

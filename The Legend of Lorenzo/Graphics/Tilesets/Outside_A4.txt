@@ -1,0 +1,48 @@
+Wall (Stone)|壁（石）|Mur (pierre)
+Wall (Brick)|壁（レンガ）|Mur (brique)
+Wall (Stone)|壁（石）|Mur (pierre)
+Wall (Stone)|壁（石）|Mur (pierre)
+Wall (Stone)|壁（石）|Mur (pierre)
+Wall (Marble)|壁（大理石）|Mur (marbre)
+Hedge|生け垣|Haie
+Frozen Wall|凍った壁|Mur gelé
+Wall (Stone)|壁（石）|Mur (pierre)
+Wall (Brick)|壁（レンガ）|Mur (brique)
+Wall (Stone)|壁（石）|Mur (brique)
+Wall (Stone)|壁（石）|Mur (brique)
+Wall (Stone)|壁（石）|Mur (brique)
+Wall (Marble)|壁（大理石）|Mur (marbre)
+Hedge|生け垣|Haie
+Frozen Wall|凍った壁|Mur gelé
+Building (Urban)|建物（都会風）|Bâtiment (urbain)
+Building (Dirt Wall)|建物（土壁）|Bâtiment (mur en terre)
+Building (Desert)|建物（砂漠風）|Bâtiment (desert)
+Building (Snow)|建物（雪）|Bâtiment (neige)
+Castle|城|Château
+Castle (Snow)|城（雪）|Château (neigh)
+Fort|砦|Fort
+Fort (Snow)|砦（雪）|Fort (neige)
+Building (Urban)|建物（都会風）|Bâtiment (urbain)
+Building (Dirt Wall)|建物（土壁）|Bâtiment (mur en terre)
+Building (Desert)|建物（砂漠風）|Bâtiment (desert)
+Building (Snow)|建物（雪）|Bâtiment (neige)
+Castle|城|Château
+Castle (Snow)|城（雪）|Château (neige)
+Fort|砦|Fort
+Fort (Snow)|砦（雪）|Fort (neige)
+Ledge (Meadow)|段差（草地）|Rebord (prairie)
+Ledge (Dirt)|段差（土）|Rebord (terre)
+Ledge (Desert)|段差（砂地）|Rebord (désert)
+Ledge (Snow)|段差（雪）|Rebord (neige)
+Ledge (Paved)|段差（舗装）|Rebord (pavé)
+Forest|森|Forêt
+Forest (Snow)|森（雪）|Forêt (neige)
+Demon Castle|魔王城|Château démoniaque
+Cliff (Meadow)|崖（草地）|Falaise (prairie)
+Cliff (Dirt)|崖（土）|Falaise (terre)
+Cliff (Desert)|崖（砂地）|Falaise (desert)
+Cliff (Snow)|崖（雪）|Falaise (neige)
+Wall (Paved)|壁（舗装）|Mur (pavé)
+Forest|森|Forêt
+Forest (Snow)|森（雪）|Forêt (neige)
+Demon Castle|魔王城|Château démoniaque

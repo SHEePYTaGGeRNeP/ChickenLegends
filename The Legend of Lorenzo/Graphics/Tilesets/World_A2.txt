@@ -1,0 +1,32 @@
+Grassland|草原|Prairie
+Dark Grassland|濃い草原|Prairie foncée
+Grassland|草原|Prairie
+Dark Grassland|濃い草原|Prairie foncée
+Forest|森|Forêt
+Forest (Conifer)|森（針葉樹）|Forêt (conifère)
+Low Mountain (Grass)|低い山（草）|Butte (herbe)
+High Mountain (Rock)|高い山（岩）|Montagne (roche)
+Wasteland|荒れ地|Terrain vague
+Wasteland|荒れ地|Terrain vague
+Dirt Field|土肌|Terrain poussiéreux
+Dirt Field|土肌|Terrain poussiéreux
+Forest (Dead Trees)|森（枯れ木）|Forêt (arbres morts)
+Road (Dirt)|道（土）|Route (terre)
+Low Mountain (Dirt)|低い山（土）|Butte (terre)
+High Mountain (Rock)|高い山（岩）|Montagne (roche)
+Desert|砂漠|Désert
+Desert|砂漠|Désert
+Rocky Land|岩地|Terrain rocailleux
+Rocky Land (Lava)|岩地（溶岩）|Terrain rocailleux (lave)
+Forest (Palm Trees)|森（ヤシの木）|Forêt (palmiers)
+Road (Paved)|道（舗装）|Route (pavée)
+Low Mountain (Sandstone)|低い山（砂岩）|Butte (grès)
+High Mountain (Sandstone)|高い山（砂岩）|Montagne (grès)
+Snowfield|雪原|Terrain enneigé
+Low Mountain (Snow)|低い山（雪）|Butte (neige)
+Clouds|雲|Nuages
+High Mountain (Clouds)|高い山（雲）|Montagne (nuages)
+Forest (Snow)|森（雪）|Forêt (neige)
+Pit|穴|Fosse
+Low Mountain (Rock)|低い山（岩）|Butte (roche)
+High Mountain (Snow)|高い山（雪）|Montagne (roche)

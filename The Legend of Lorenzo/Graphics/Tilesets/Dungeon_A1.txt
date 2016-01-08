@@ -1,0 +1,16 @@
+Water|水場|Eau
+Deep Water|深い水場|Eau profonde
+Swamp Grass|水草|Herbe de marais
+Lotus Pads (Flowers)|蓮の葉（花）|Lotus (fleurs)
+Lava|溶岩|Lave
+Waterfall (Lava Cave)|滝（溶岩洞窟）|Cascade (grotte de lave)
+Water (Grass Maze)|水場（草迷宮）|Eau (labyrinthe végétal)
+Waterfall (Grass Maze)|滝（草迷宮）|Cascade (labyrinthe végétal)
+Water (Dirt Cave)|水場（土洞窟）|Eau (grotte de terre)
+Waterfall (Dirt Cave)|滝（土洞窟）|Cascade (grotte de terre)
+Water (Rock Cave)|水場（岩洞窟）|Eau (grotte de roche)
+Waterfall (Rock Cave)|滝（岩洞窟）|Cascade (grotte de roche)
+Water (Crystal)|水場（水晶）|Eau (crystal)
+Waterfall (Crystal)|滝（水晶）|Cascade (crystal)
+Canal|水路|Canal
+Waterfall (Stone Wall)|滝（石壁）|Cascade (mur en pierre)

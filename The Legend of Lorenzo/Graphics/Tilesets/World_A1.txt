@@ -1,0 +1,16 @@
+Sea|海|Mer
+Deep Sea|深い海|Mer profonde
+Rock Shoal|岩礁|Récif
+Icebergs|氷山|Icebergs
+Poison Swamp|毒の沼|Marais empoisonné
+Dead Trees|枯れ木|Arbres morts
+Lava|溶岩|Lave
+Bubbles|泡|Bulles
+Pond|池|Mare
+Boulder|岩|Rocher
+Frozen Sea|凍った海|Mer gelée
+Whirlpool|渦|Tourbillon
+Land's End|大地の境界|Limites du monde
+Endless Waterfall|下界に落ちる滝|Cascade sans fin
+Cloud Land's End|雲の大地の境界|Limites du monde (nuages)
+Cloud|雲|Nuages

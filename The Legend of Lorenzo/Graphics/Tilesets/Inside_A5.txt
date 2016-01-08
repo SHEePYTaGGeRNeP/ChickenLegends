@@ -1,0 +1,128 @@
+Darkness|暗闇|Obscurité
+Wire Mesh|金網|Grillage
+Stone Bridge (V)|石の橋（縦）|Pont en pierre (V)
+Stone Bridge (V)|石の橋（縦）|Pont en pierre (V)
+Stone Bridge (V)|石の橋（縦）|Pont en pierre (V)
+Stone Bridge (H)|石の橋（横）|Pont en pierre (H)
+Stone Bridge (H)|石の橋（横）|Pont en pierre (H)
+Broken Bridge (H)|壊れた橋（横）|Pont brisé (H)
+Transparent|透明|Transparent
+Wire Mesh|金網|Grillage
+Broken Bridge (V)|壊れた橋（縦）|Pont brisé (V)
+Broken Bridge (V)|壊れた橋（縦）|Pont brisé (V)
+Broken Bridge (V)|壊れた橋（縦）|Pont brisé (V)
+Stone Bridge (H)|石の橋（横）|Pont en pierre (H)
+Broken Bridge (H)|壊れた橋（横）|Pont brisé (H)
+Broken Bridge (H)|壊れた橋（横）|Pont brisé (H)
+Wood Floor|木の床|Parquet
+Wood Floor|木の床|Parquet
+Wood Floor|木の床|Parquet
+Wood Floor|木の床|Parquet
+Cobblestones|石畳|Pavés
+Cobblestones|石畳|Pavés
+Cobblestones|石畳|Pavés
+Cobblestones|石畳|Pavés
+Ledge|段差|Rebord
+Ledge|段差|Rebord
+Ledge|段差|Rebord
+Ledge|段差|Rebord
+Ledge|段差|Rebord
+Ledge|段差|Rebord
+Ledge|段差|Rebord
+Ledge|段差|Rebord
+Cobblestones|石畳|Pavés
+Cobblestones|石畳|Pavés
+Cobblestones|石畳|Pavés
+Cobblestones|石畳|Pavés
+Cobblestones|石畳|Pavés
+Cobblestones|石畳|Pavés
+Cobblestones|石畳|Pavés
+Cobblestones|石畳|Pavés
+Ledge|段差|Rebord
+Ledge|段差|Rebord
+Ledge|段差|Rebord
+Ledge|段差|Rebord
+Ledge|段差|Rebord
+Ledge|段差|Rebord
+Ledge|段差|Rebord
+Ledge|段差|Rebord
+Interior Floor|内装床|Sol intérieur
+Interior Floor|内装床|Sol intérieur
+Interior Floor|内装床|Sol intérieur
+Interior Floor|内装床|Sol intérieur
+Floor (Demon Castle)|床（魔王城）|Sol (château démoniaque)
+Floor (Concrete)|床（コンクリート）|Sol (béton)
+Floor (Tent)|床（テント）|Sol (tente)
+Floor (Dirt)|床（土）|Sol (terre)
+Ledge|段差|Rebord
+Ledge|段差|Rebord
+Ledge|段差|Rebord
+Ledge|段差|Rebord
+Ledge|段差|Rebord
+Ledge|段差|Rebord
+Ledge|段差|Rebord
+Ledge|段差|Rebord
+Stairs (Wood)|階段（木）|Escalier (bois)
+Stairs (Wood)|階段（木）|Escalier (bois)
+Stairs (Wood)|階段（木）|Escalier (bois)
+Stairs (Wood)|階段（木）|Escalier (bois)
+Stairs (Stone)|階段（石）|Escalier (pierre)
+Stairs (Stone)|階段（石）|Escalier (pierre)
+Stairs (Stone)|階段（石）|Escalier (pierre)
+Stairs (Stone)|階段（石）|Escalier (pierre)
+Stairs (Stone)|階段（石）|Escalier (pierre)
+Stairs (Stone)|階段（石）|Escalier (pierre)
+Stairs (Stone)|階段（石）|Escalier (pierre)
+Stairs (Stone)|階段（石）|Escalier (pierre)
+Stairs (Ruins)|階段（廃墟）|Escalier (ruines)
+Stairs (Ruins)|階段（廃墟）|Escalier (ruines)
+Stairs (Ruins)|階段（廃墟）|Escalier (ruines)
+Stairs (Ruins)|階段（廃墟）|Escalier (ruines)
+Stairs (Carpet)|階段（じゅうたん）|Escalier (tapis)
+Stairs (Carpet)|階段（じゅうたん）|Escalier (tapis)
+Stairs (Carpet)|階段（じゅうたん）|Escalier (tapis)
+Stairs (Carpet)|階段（じゅうたん）|Escalier (tapis)
+Stairs (Carpet)|階段（じゅうたん）|Escalier (tapis)
+Stairs (Carpet)|階段（じゅうたん）|Escalier (tapis)
+Stairs (Carpet)|階段（じゅうたん）|Escalier (tapis)
+Stairs (Carpet)|階段（じゅうたん）|Escalier (tapis)
+Wood Floor (Ruins)|木の床（廃墟）|Parquet (ruines)
+Wood Floor (Ruins)|木の床（廃墟）|Parquet (ruines)
+Wood Floor (Ruins)|木の床（廃墟）|Parquet (ruines)
+Wood Floor (Ruins)|木の床（廃墟）|Parquet (ruines)
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Cobblestones (Ruins)|石畳（廃墟）|Pavés (ruines)
+Interior Floor (Ruins)|内装床（廃墟）|Sol intérieur (ruines)
+Interior Floor (Ruins)|内装床（廃墟）|Sol intérieur (ruines)
+Interior Floor (Ruins)|内装床（廃墟）|Sol intérieur (ruines)
+Interior Floor (Ruins)|内装床（廃墟）|Sol intérieur (ruines)
+Floor (Demon Castle, Ruins)|床（魔王城・廃墟）|Sol (château démoniaque, ruines)
+Floor (Concrete, Ruins)|床（コンクリート・廃墟）|Sol (béton, ruines)
+Floor (Tent, Ruins)|床（テント・廃墟）|Sol (tente, ruines)
+Floor (Dirt, Ruins)|床（土・廃墟）|Sol (terre, ruines)
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Relief Floor Tile|レリーフ床|Tile au sol de relief
+Relief Floor Tile (Ruins)|レリーフ床（廃墟）|Tile au sol de relief (ruines)
+Relief Floor Tile (Ruins)|レリーフ床（廃墟）|Tile au sol de relief (ruines)

@@ -1,0 +1,32 @@
+Wood Floor|木の床|Parquet
+Cobblestones|石畳|Pavés
+Rug|じゅうたん|Tapis
+Straw Mat|ござ|Matelas de paille
+Hole (Wood Floor)|穴（木の床）|Trou (parquet)
+Raised Stone|石段|Muret
+Ground Cracks|床のひび割れ|Fissures au sol
+Table|テーブル|Table
+Wood Floor|木の床|Parquet
+Cobblestones|石畳|Pavés
+Rug|じゅうたん|Tapis
+Rug|じゅうたん|Tapis
+Hole (Wood Floor)|穴（木の床）|Trou (parquet)
+Raised Stone|石段|Muret
+Soil on Ground|床の汚れ|Terre au sol
+Table|テーブル|Table
+Cobblestones|石畳|Pavés
+Cobblestones|石畳|Pavés
+Rug|じゅうたん|Tapis
+Rug|じゅうたん|Tapis
+Hole (Stone Floor)|穴（石の床）|Trou (sol en pierre)
+Raised Stone|石段|Muret
+Moss on Ground|床の苔|Mousse au sol
+Table|テーブル|Table
+Cobblestones|石畳|Pavés
+Cobblestones|石畳|Pavés
+Rug|じゅうたん|Tapis
+Rug|じゅうたん|Tapis
+Hole|穴|Trou
+Raised Stone|石段|Muret
+Poison Swamp|毒の沼|Marais empoisonné
+Table|テーブル|Table
